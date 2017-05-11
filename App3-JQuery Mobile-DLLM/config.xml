@@ -14,9 +14,9 @@ JQuery Mobile-Debora
 Debora Lizeth López Millán
 </author>
 
-<icon src="tel.png"  gap:density="ldpi" gap:platform="android" />
-<icon src="tel.png"  gap:density="mdpi" gap:platform="android" />
-<icon src="tel.png"  gap:density="hdpi" gap:platform="android" />
-<icon src="tel.png"  gap:density="xhdpi" gap:platform="android" />
+<icon src="images/tel.png"  gap:density="ldpi" gap:platform="android" />
+<icon src="images/tel.png"  gap:density="mdpi" gap:platform="android" />
+<icon src="images/tel.png"  gap:density="hdpi" gap:platform="android" />
+<icon src="images/tel.png"  gap:density="xhdpi" gap:platform="android" />
 
 </widget>
